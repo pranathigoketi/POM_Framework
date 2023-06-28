@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-26T19:30:02 IST" name="Default Suite" finished-at="2023-06-26T19:30:23 IST" duration-ms="20876">
+    <groups>
+    </groups>
+    <test started-at="2023-06-26T19:30:02 IST" name="POM_Framework" finished-at="2023-06-26T19:30:23 IST" duration-ms="20876">
+      <class name="Testcases.SpotlightMessages_Testcases">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:Testcases.SpotlightMessages_Testcases@1a451d4d]" started-at="2023-06-26T19:30:02 IST" name="beforetest" finished-at="2023-06-26T19:30:08 IST" duration-ms="5992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="spotlight()[pri:0, instance:Testcases.SpotlightMessages_Testcases@1a451d4d]" started-at="2023-06-26T19:30:08 IST" name="spotlight" finished-at="2023-06-26T19:30:23 IST" duration-ms="14680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- spotlight -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:Testcases.SpotlightMessages_Testcases@1a451d4d]" started-at="2023-06-26T19:30:23 IST" name="aftertest" finished-at="2023-06-26T19:30:23 IST" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- Testcases.SpotlightMessages_Testcases -->
+    </test> <!-- POM_Framework -->
+  </suite> <!-- Default Suite -->
+</testng-results>

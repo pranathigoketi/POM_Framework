@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/PranathiGoketi-Kairo/Documents/POM_Framework">
+    <classes>
+       <class name="Testcases.SpotlightMessages_Testcases"></class>
+    </classes>
+</test>
+
+        <listeners>
+            <listener class-name="Extentreport.ExtentReportListeners" />
+        </listeners>
+        <!-- Define your test classes, groups, etc. -->
+        <!-- ... -->
+
+</suite>
+
